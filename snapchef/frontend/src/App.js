@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      SnapChef
+      Eric is a good boy
     </div>
   );
 }
